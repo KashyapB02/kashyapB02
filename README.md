@@ -5,7 +5,7 @@
 <img src = "https://user-images.githubusercontent.com/87887741/182469072-8cc79563-5bfa-469f-9366-501a08ba4407.png">
 </p>
 <h2></h2>
-<h3 align="center">I am an under graduation student at <a href="https://www.msit.in/" target="_blank">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science Engineering. I am Front-end web developer & open source enthusiast. I am always open to collaborating on projects and innovative tech articles & documentations.</h3>
+<h3 align="left">I am an under graduation student at <a href="https://www.msit.in/" target="_blank">Maharaja Surajmal Institute of Technology</a>. I am currently pursuing my B.Tech. degree in Computer Science Engineering. I am Front-end web developer & open source enthusiast. I am always open to collaborating on projects and innovative tech articles & documentations.</h3>
 <h2></h2>
 
 <h5>
