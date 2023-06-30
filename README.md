@@ -39,7 +39,7 @@
 <br />
 <h2 align="left">👨‍💻 Languages & Development Frameworks:</h2>
 <h2>
-<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,react,redux,next,tailwind,markdown">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,html,css,javascript,typescript,react,redux,next,tailwind,markdown">
 </h2>
 <br />
 <h2 align="left">📄 Editors, Development & Other Tools:</h2>
