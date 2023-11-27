@@ -14,7 +14,7 @@
 - 🔭 I’m currently working on [Issues Tracking Application.](https://kashyap-issue-tracker.vercel.app/)
 - 🌱 I’m currently learning **Redux, Firebase & Front-end development with NextJS**.
 - 👯 I’m looking to collaborate on **Front-end projects in ReactJS & NextJS**.
-- 👨‍💻 All of my projects are available at [Here.](https://github.com/kashyap1905)
+- 👨‍💻 All of my projects are available at [Here.](https://github.com/kashyapB02)
 - 💬 Ask me about **C/C++, HTML5, CSS3, JavaScript, ReactJS and NextJS**.
 - ⚡ Fun fact **I learned ReactJS before JavaScript.**
 
@@ -27,14 +27,14 @@
 <a href="mailto:bobby.kumar.1905@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="http://linkedin.com/in/bobby-kumar-0a11761b9"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.instagram.com/__kashyap02/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://twitter.com/Kashyap1905"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-<a href="https://t.me/Kashyap1905"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
+<a href="https://twitter.com/kashyapB02"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
+<a href="https://t.me/kashyapB02"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"></a>
 <a href="https://discordapp.com/users/817306916949983232"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a>
 <a href="https://www.hackerrank.com/kashyap_02"><img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white"></a>
 </h2>
 <br />
 
-[![BOBBY's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kashyap1905&bg_color=000000&line=00FF6E&point=FFFFFF&custom_title=My%20Github%20Contribution%20Graph&area=true&area_color=00FF6E&radius=2&theme=redical)](https://github.com/kashyap1905)
+[![BOBBY's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=kashyapB02&bg_color=000000&line=00FF6E&point=FFFFFF&custom_title=My%20Github%20Contribution%20Graph&area=true&area_color=00FF6E&radius=2&theme=redical)](https://github.com/kashyapB02)
 
 <br />
 <h2 align="left">👨‍💻 Languages & Development Frameworks:</h2>
@@ -53,14 +53,14 @@
 <table>
 <tr>
 <td>
-<img src="https://github-readme-stats.vercel.app/api?username=kashyap1905&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=radical&hide_border=true" width="500" height="200" />
+<img src="https://github-readme-stats.vercel.app/api?username=kashyapB02&include_all_commits=true&count_private=true&show_icons=true&line_height=25&theme=radical&hide_border=true" width="500" height="200" />
 </td>
 <td>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyap1905&theme=radical&hide_border=true" width="500" height="200" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kashyapB02&theme=radical&hide_border=true" width="500" height="200" />
 </td>
 </tr>
 </table>
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyap1905&show_icons=true&locale=en&langs_count=6&theme=radical" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=kashyapB02&show_icons=true&locale=en&langs_count=6&theme=radical" />
 </p>
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
